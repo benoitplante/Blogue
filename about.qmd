@@ -1,19 +1,22 @@
 ---
-title: "About"
+title: "À propos"
 image: profile.jpg
 about:
   template: jolla
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
-    - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/benoit-plante-42753353/
     - icon: github
       text: Github
-      href: https://github.com
-
+      href: https://github.com/benoitplante
 ---
 
-About this blog
+Bienvenue sur mon blogue, un espace dédié à l'exploration des frontières entre la psychologie, la science des données, le langage de programmation R, et l'intelligence artificielle (IA). Je suis actuellement doctorant en psychologie, passionné par la manière dont les méthodes de recherche en psychologie peuvent s'enrichir et évoluer grâce aux avancées en science des données et en IA.
+
+En parallèle de mes études, je travaille en tant que coordinateur scientifique pour un groupe de recherche. Ce rôle me permet de collaborer avec des chercheurs de divers horizons, d'organiser des projets de recherche et de contribuer à la dissémination de nos découvertes.
+
+Mon intérêt particulier réside dans l'utilisation du langage R, un outil puissant pour l'analyse statistique et la visualisation de données en psychologie. Je suis convaincu que l'intégration de la science des données et de l'IA dans la recherche en psychologie peut ouvrir de nouvelles voies pour comprendre la complexité du comportement humain et améliorer les interventions psychologiques.
+
+À travers ce blogue, je souhaite partager mes réflexions, mes découvertes et les défis rencontrés au cours de mon parcours. J'espère ainsi contribuer à la conversation sur l'importance de l'interdisciplinarité en recherche et encourager d'autres à explorer ces croisements stimulants.
+
+Rejoignez-moi dans cette aventure à la découverte des possibles offerts par la rencontre de la psychologie, de la science des données, du langage R et de l'intelligence artificielle.
